@@ -1,7 +1,8 @@
 # IBM_internshp0
 
 This is the Internship project provided by Edunet IBM.
-## project name: Python keylogger 
+## project name: Python keylogger capturing keystroke
+
 
 here used pynput module.
 
